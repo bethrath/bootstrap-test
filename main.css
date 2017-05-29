@@ -1,0 +1,93 @@
+.navbar {
+	cursor: pointer;
+}
+
+.navbar-nav {
+	color: white;
+	list-style-type: none;
+	vertical-align: center;
+}
+
+.navbar-nav:hover {
+	color: grey;
+}
+
+.navbar-brand img {
+	width: 50%;
+	padding: 0;
+	margin: 0;
+}
+
+.col-md-9 img {
+	width: 100%;
+	margin-top: 70px;
+}
+
+.col-md-3 img {
+	width: 100%;
+}
+
+.nav li:hover {
+	color: grey;
+}
+
+li {
+	list-style-type: square;
+	color: red;
+	font-size: 16px;
+}
+
+li p {
+	color: black;
+}
+
+.latest {
+	margin-top: 100px;
+	color: red;
+	font-size: 18px;
+}
+
+.col-md-7 li p, .col-md-4 li p {
+	color: black;
+}
+
+.col-md-7 li, .col-md-4 li {
+	text-align: center;
+	list-style-type: square;
+	color: blue;
+	font-size: 16px;
+}
+
+.title-1 {
+	font-size: 26px;
+	text-align: center;
+}
+
+.title-2 {
+	font-size: 22px;
+	text-align: center;
+}
+
+.text {
+	text-align: center;
+}
+
+.header {
+	text-align: center;
+	color: red;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.info {
+	padding: 50px;
+	text-align: center;
+}
+
+.col-md-4 {
+	margin-left: 40px;
+}
+
+.text-only {
+	margin-top: 200px;
+}
